@@ -1,5 +1,5 @@
 import sys
-from helpers.helpers import calculate
+from helpers.helpers import *
 
 def main():
 
