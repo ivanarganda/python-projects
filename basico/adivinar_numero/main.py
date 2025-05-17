@@ -1,6 +1,6 @@
 import sys
 import signal
-from helpers.helpers import calculate, handle_output_keyboard, get_random_number, clear_screen
+from helpers.helpers import *
 
 def display_game_status(history, min, max, attempts):
     clear_screen()

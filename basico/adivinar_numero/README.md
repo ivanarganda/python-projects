@@ -3,22 +3,6 @@
 ## Description
 A simple number guessing game application where users try to guess a randomly generated number.
 
-## Prerequisites
-1. **Python 3.12 or higher**: Ensure Python is installed on your system.
-2. **Virtual Environment**: To keep dependencies isolated from your system
-
-### Setting up Virtual Environment
-- For Windows:
-  ```bash
-  python -m venv venv
-  venv\Scripts\activate
-  ```
-- For Unix/MacOS:
-  ```bash
-  python -m venv venv
-  source venv/bin/activate
-  ```
-
 ## How to Play
 1. Run the application
 2. The system will generate a random number
